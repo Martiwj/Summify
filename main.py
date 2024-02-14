@@ -1,6 +1,6 @@
 import customtkinter
-from Summify.ai import get_chat_completion
-from Summify.pagereader import read_webpage
+from ai import get_chat_completion
+from pagereader import read_webpage
 
 customtkinter.set_appearance_mode("system")
 customtkinter.set_default_color_theme("green")
