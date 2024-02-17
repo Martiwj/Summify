@@ -45,7 +45,4 @@ copy_button.pack(pady=12, padx=10)
 clear_button = customtkinter.CTkButton(master=frame, text="Clear", command=clear_textbox)
 clear_button.pack(pady=12, padx=10)
 
-
-
-
 root.mainloop()
